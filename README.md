@@ -1,4 +1,4 @@
-Clustring Assignment
+Clustring by DBSCAN
 ==================
 
 C++ Implementation of clustering by DBSCAN
