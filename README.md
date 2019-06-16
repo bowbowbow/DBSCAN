@@ -34,17 +34,6 @@ Given a set D of objects, we identify all core objects w.r.t. the given paramete
 
 - Continue the process until all of the objects have been processed
 
-`pseudo code`
-
-```
-for each o in D do 
-if o is not yet classified then
-if o is a core-object then
-collet all objects density-reachable from o and assign them to a new cluster.
-else 
-assign o to NOISE
-```
-
 Any other specification of the implementation and testing
 ============
 
